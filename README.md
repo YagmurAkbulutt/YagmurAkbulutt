@@ -18,10 +18,10 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yağmur-akbulut/" target="blank">
+  <a href="https://linkedin.com/in/yağmur-akbulut/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/akbuluttyagmurr/" target="blank">
+  <a href="https://www.instagram.com/akbuluttyagmurr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
