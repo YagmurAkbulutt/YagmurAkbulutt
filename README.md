@@ -28,7 +28,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagmurAkbulutt&show_icons=true&theme=gotham&hide_border=true" alt="Yağmur Akbulut's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurAkbulutt&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </p>
 
