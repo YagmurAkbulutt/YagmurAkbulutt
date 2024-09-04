@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @YagmurAkbulutt I am a clinical psychologist and front-end developer candidate. I work as a clinical psychologist because of my interest in human mind, and I have stepped into the software world to develop my interest in computer technology.
-- 👀 My aim is to combine the knowledge and experience I gained as a clinical psychologist with projects in the software world. By working at the intersection of psychology and software, I aim to develop innovative projects where I can use technology in the field of human psychology and mental health.
-- 🌱 I’m currently learning basic technologies such as HTML, CSS and JavaScript, while also trying to gain experience using modern libraries.
-- 💞️ As someone who is patient, has strong communication skills and manages time well, I must state that I am open to all kinds of feedback and cooperation. I can't wait to develop better projects with your feedback!
-- 📫 How to reach me yagmurakbulutt21@gmail.com
+<h1 align="center">Hi, I'm Yağmur. 💫</h1>
+<h3 align="center">As a Frontend and React Developer, I am passionate about staying on top of the latest technology trends. My goal is to improve user experiences by designing visually stunning and highly functional user interfaces.</h3>
 
+<h3 align="left">💻 Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%23282c34.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/bootstrap-%236c757d.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
+  <img src="https://img.shields.io/badge/typescript-%232B82F0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
+</p>
 
-<!---
-YagmurAkbulutt/YagmurAkbulutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">🌐 Connect with Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/yağmur-akbulut/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/akbuluttyagmurr/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</p>
