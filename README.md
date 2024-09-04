@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/typescript-%232B82F0.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-  <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
 </p>
 
 <h3 align="left">🌐 Connect with Me:</h3>
