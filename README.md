@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yağmur. 💫</h1>
-<h3 align="center">As a Frontend and React Developer, I am passionate about staying on top of the latest technology trends. My goal is to improve user experiences by designing visually stunning and highly functional user interfaces.</h3>
+<h3 align="center">As a React Native and Frontend Developer, I am passionate about staying on top of the latest technology trends. My goal is to improve user experiences by designing visually stunning and highly functional user interfaces.</h3>
 
 <h3 align="left">💻 Tech Stack</h3>
 <p align="left">
